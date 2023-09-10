@@ -11,13 +11,13 @@
 ## To run the code with Terminal use the following info.
 ```
 # Load and Pre-process data
-python preprocess.py
+python3 preprocess.py
 
 # Train
-python train.py
+python3 train.py
 
 # Test and results
-python test.py
+python3 test.py
 ```
 ## Some issues to know
 1. The test environment is
